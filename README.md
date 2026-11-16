@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:7C3AED&height=170&section=header&text=Daniel%20Tapia&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Cloud&descAlignY=60&descSize=17"/>
-
 <a href="https://www.linkedin.com/in/daniel-tapia-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
